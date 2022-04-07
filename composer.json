@@ -1,0 +1,15 @@
+{
+    "name": "mrr000/gb_lesson3",
+    "description": "lab n3",
+    "authors": [
+        {
+            "name": "Rinat",
+            "email": "mahmutovrinat@ya.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "./App/"
+        }
+    }
+}
